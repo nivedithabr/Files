@@ -52,33 +52,33 @@ CREATE TABLE mdl_media_others(
 
 
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/ambulance.png",
-         "wolf",
+         "ambulance",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/ambulance.mp3");
         
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/door.png",
-         "wolf",
+         "door bell",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/door.mp3");
 
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/fire_work.png",
-         "wolf",
+         "fire work",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/fire_work.mp3");
 
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/glass.png",
-         "wolf",
+         "glass break",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/glass.mp3");
         
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/honk.png",
-         "wolf",
+         "car honk",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/honk.mp3");
         
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/smoke.png",
-         "wolf",
+         "smoke detector",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/smoke.mp3");
         
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/Thunder.png",
-         "wolf",
+         "thunder",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/Thunder.mp3");
         
 INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/train.png",
-         "wolf",
+         "train honk",
         "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/train.mp3");
