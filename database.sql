@@ -42,3 +42,43 @@ CREATE TABLE mdl_media_animal(
 );
 
 
+
+CREATE TABLE mdl_media_others(
+    id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    others_name VARCHAR(1000) NOT NULL,
+    others_image_path VARCHAR(1000) NOT NULL,
+    others_audio_path VARCHAR(1000) NOT NULL
+);
+
+
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/ambulance.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/ambulance.mp3");
+        
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/door.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/door.mp3");
+
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/fire_work.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/fire_work.mp3");
+
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/glass.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/glass.mp3");
+        
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/honk.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/honk.mp3");
+        
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/smoke.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/smoke.mp3");
+        
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/Thunder.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/Thunder.mp3");
+        
+INSERT INTO mdl_media_others (others_image_path,others_name,others_audio_path) VALUES (  "https://192.168.178.20/moodle/blocks/testblock/classes/other_image_dir/train.png",
+         "wolf",
+        "https://192.168.178.20/moodle/blocks/testblock/classes/other_audio_dir/train.mp3");
